@@ -14,7 +14,7 @@ This webapp can be used by college to manage their various computer science labs
   Webapp uses php,mysql server as backends.
   (For local uses I recommend using WampServer for easy installation of php, mysql and apached)
   
-  For php web servers copy the file and paste it into public folder of your webserver and unzip it.
+  For php web servers copy the LABSYSTEM.zip file and paste it into public folder of your webserver and unzip it.
   
   Open the webapp in your browser ( eg //your-webpage.com/LABSYSTEM)
   
